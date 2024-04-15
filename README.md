@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @STH0000
-- 👀 I’m interested in Linux, anime, and Japanese culture!
+- 👀 I’m interested in frontend, Linux, anime, and Japanese culture!
 - 🌱 I’m currently learning React, Next, Tailwind, Typescript!
 - 💞️ I’m looking to collaborate on open-source projects and building cool applications!
 - 📫 How to reach me Just send a message to my carrier pigeon named Pidgey!
